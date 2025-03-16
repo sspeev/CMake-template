@@ -1,5 +1,5 @@
 # CMake-template
-This is guide that gives you a simple and easy to use CMake template for every small project you create. It is like the solution Visual Studio 2022 creates for evert C# project.
+This is guide that gives you a simple and easy to use CMake template for every small project you create. It is like the solution Visual Studio 2022 creates for every C# project.
 
 ## CMake Template Explanation
 
